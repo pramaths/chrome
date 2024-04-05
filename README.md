@@ -53,3 +53,5 @@ npm start #server
 ---
 
 Made with ❤️ by [Andrew Wang](https://www.linkedin.com/in/andrew-wang0/), [Uno Pasadhika](https://www.linkedin.com/in/wpasadhika/), [Kevin Wu](https://www.linkedin.com/in/kevinwu098/), [Andrew Wang](https://www.linkedin.com/in/andreww05/)
+#   c h r o m e  
+ 
